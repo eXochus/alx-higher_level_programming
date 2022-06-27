@@ -2,5 +2,5 @@
 
 
 class Rectangle:
-"""Simple Rectangle that just defines itself"""
+    """Simple Rectangle that just defines itself"""
     pass
